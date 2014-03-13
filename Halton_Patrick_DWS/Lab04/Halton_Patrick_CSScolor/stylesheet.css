@@ -24,13 +24,15 @@ margin: 0 600px 0 500px;
 p {
 color: rgba(0, 0, 0, 1);
 padding: 20px;
-font-family: Arial,Verdana,serif
+font-family: Montez,Droid Sans Mono,serif
+line-height: 20px;
 
 }
 
 h3 {
 color: rgba(0, 0, 0, 1);
 padding:10px;
+line-height:20px;
 }
 
 h2{
@@ -41,7 +43,7 @@ padding:10px;
 
 #div2{
 color: rgba(0, 0, 0, 1);
-font-family: Arial,Verdana,serif
+font-family: Arial,,serif
 }
 
 #div3{
