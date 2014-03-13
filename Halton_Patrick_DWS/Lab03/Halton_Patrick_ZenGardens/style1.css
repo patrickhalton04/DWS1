@@ -1,0 +1,23 @@
+body {
+ background-color: yellow;
+}
+h1 {
+	color: yellow;
+	background-color: Black;
+	font-size: 5em;
+	font-family: Tahoma, Arial, sans-serif;
+	padding: 10px; 
+	margin: 0;
+}
+
+h2 {
+	color: yellow;
+	background-color: Black;
+	font-weight: normal;
+	border-bottom: 1px solid White;
+}
+
+p {
+	color: black;
+	line-height: 1.5;
+}

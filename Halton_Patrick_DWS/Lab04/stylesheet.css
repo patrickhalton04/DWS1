@@ -1,0 +1,55 @@
+body{
+background-image:url("images/tigerfly.jpg");
+}
+h1{
+color: rgba(255, 140, 0, 1);
+
+font-style:italic;
+font-weight:Bolder;
+font-size:30px;
+font-variant:small-caps; 
+font-family: Georgia,times,sans-serif;
+
+padding: 20px;
+margin: 0 350px 0 350px;
+}
+
+#div1{
+color: rgba(0, 0, 0, 1);
+
+margin: 0 600px 0 500px;
+
+}
+
+p {
+color: rgba(0, 0, 0, 1);
+padding: 20px;
+font-family: Arial,Verdana,serif
+
+}
+
+h3 {
+color: rgba(0, 0, 0, 1);
+padding:10px;
+}
+
+h2{
+color: rgba(0, 0, 0, 1);
+padding:10px;
+
+}
+
+#div2{
+color: rgba(0, 0, 0, 1);
+font-family: Arial,Verdana,serif
+}
+
+#div3{
+color: rgba(0, 0, 0, 1);
+
+
+}
+
+
+
+
