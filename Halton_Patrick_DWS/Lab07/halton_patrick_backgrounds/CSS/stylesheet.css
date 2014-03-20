@@ -1,0 +1,102 @@
+body{
+background: url("../Images/tigerfly.jpg") no-repeat fixed center;
+}
+h1{
+    color: rgba(255, 140, 0, 1);
+	font-style:italic;
+	font-weight:Bolder;
+	font-size:30px;
+	font-variant:small-caps; 
+	font-family: Georgia,times,sans-serif;
+	text-align:center;	
+	padding: 40px;
+	background-color:black;
+	background-repeat: repeat;
+	background-position:center;
+	
+	/*margin: 0 350px 0 350px;*/
+}
+
+
+p {
+	color: rgba(0, 0, 0, 1);
+	padding: 20px 30px 30px 10px;
+	font-family: Montez,Droid Sans Mono,serif;
+	line-height: 20px;
+
+}
+#para1 {
+	width:30%;	
+	font-weight:Bolder;
+	font-size:20px;
+	float: right;
+
+
+
+}
+h3 {
+	color: rgba(0, 0, 0, 1);
+	/*padding:10px;*/
+	line-height:20px;
+	/*width: 30%;*/
+	
+}
+
+h2{
+	color: rgba(0, 0, 0, 1);
+	/*padding:10px;*/
+
+}
+
+#charlist{
+	color: rgba(0, 0, 0, 1);
+	font-family: Arial,serif;
+	float: left;
+
+}
+
+#div3{
+	color: rgba(0, 0, 0, 1);
+	width:25%;
+	text-align:center;
+	float:left;
+
+
+
+}
+
+#Nav li{ 
+	display:inline;
+	font-family:Lucida Console, Monaco, monospace;
+	font-size:20px;
+	color: orange;
+	padding: 30px;
+	text-shadow: black 0.1em 0.5em 0.4em;
+	
+}
+
+ul{
+	text-align:center;	
+}
+
+
+
+.column{
+	width:85%;
+	padding:0 20px;
+	background-color:orange;
+	border-radius:50px;
+	border:;
+	margin: 20px 50px;
+	float: left;
+	
+}
+
+.column ol{
+	list-style:upper-roman;
+}
+
+a:link {royalblue;}      
+a:visited {orange;}  
+a:hover {color:#FF00FF;}  
+a:active {color:#0000FF;}  

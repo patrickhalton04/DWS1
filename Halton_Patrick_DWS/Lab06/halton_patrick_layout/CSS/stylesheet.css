@@ -2,8 +2,7 @@ body{
 background: url("../Images/tigerfly.jpg") no-repeat fixed center;
 }
 h1{
-color: rgba(255, 140, 0, 1);
-
+    color: rgba(255, 140, 0, 1);
 	font-style:italic;
 	font-weight:Bolder;
 	font-size:30px;
@@ -12,29 +11,24 @@ color: rgba(255, 140, 0, 1);
 	text-align:center;	
 	padding: 40px;
 	background-color:black;
+	background-repeat: repeat;
+	background-position:center;
+	
 	/*margin: 0 350px 0 350px;*/
-}
-
-#links{
-	display:inline;
-	font-family:Lucida Console, Monaco, monospace;
-	color: rgba(0, 0, 0, 1)
-	/*margin: 0 600px 0 500px;*/
-
 }
 
 
 p {
 	color: rgba(0, 0, 0, 1);
-	padding: 20px, 30px, 30px, 10px;
-	font-family: Montez,Droid Sans Mono,serif
+	padding: 20px 30px 30px 10px;
+	font-family: Montez,Droid Sans Mono,serif;
 	line-height: 20px;
 
 }
 #para1 {
 	width:30%;	
 	font-weight:Bolder;
-	font-size:20px
+	font-size:20px;
 	float: right;
 
 
@@ -87,17 +81,18 @@ ul{
 
 
 
-.Column{
-	width:37%;
+.column{
+	width:85%;
 	padding:0 20px;
 	background-color:orange;
 	border-radius:50px;
 	border:;
 	margin: 20px 50px;
 	float: left;
+	
 }
 
-.Column ol{
+.column ol{
 	list-style:upper-roman;
 }
 
