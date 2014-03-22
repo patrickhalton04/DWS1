@@ -66,7 +66,7 @@ Nav li{
 	font-family:Lucida Console, Monaco, monospace;
 	font-size:20px;
 	color: orange;
-	padding: 30px;
+	padding: 40px;
 	text-shadow: black 0.1em 0.5em 0.4em;	
 }
 
@@ -95,6 +95,45 @@ ul{
 .column ol{
 	list-style:upper-roman;	
 }
+aside{
+	
+	width:5%;
+	padding:50px 30px 30px 60px;	
+	border-radius:50px;
+	border:;
+	margin: 0px 50px 70px 0px;
+	float: left;
+
+
+}
+aside ul {
+	
+	display:block;	
+	color: white;		
+	
+	
+}
+
+aside ul li{
+	margin: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:15px;
+}
+
+footer{
+	margin:510px;
+}
+table{
+	width:5%;
+}
+
+th, td{
+	background-color:#999
+	padding: 20px
+}
+	
+	
+
 
 a:link {royalblue;}      
 a:visited {orange;}  
