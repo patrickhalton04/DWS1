@@ -1,7 +1,11 @@
 body {
 	background: url("../Images/tigerfly.jpg") no-repeat fixed center;
 }
-
+#wrapper{
+	width:90%;
+	margin: 0 auto;
+	
+}
 h1{
     color: rgba(255, 140, 0, 1);
 	font-style:italic;
@@ -10,11 +14,10 @@ h1{
 	font-variant:small-caps; 
 	font-family: Georgia,times,sans-serif;
 	text-align:center;	
-	padding: 40px;
-	background-color: black;
+	padding: 40px;	
 	background-repeat: repeat;
 	background-position:center;
-	background:linear-gradient(blue,white);
+	
 	
 	
 	/*margin: 0 350px 0 350px;*/
@@ -77,7 +80,7 @@ ul{
 .column{
 
 	color:white;
-	width:47%;
+	width:30%;
 	padding:0 30px;
 	background-color:orange;
 	border-radius:50px;
@@ -97,41 +100,57 @@ ul{
 }
 aside{
 	
-	width:5%;
-	padding:50px 30px 30px 60px;	
-	border-radius:50px;
+	width:20%;
+	padding:30px 30px 30px 8px;	
+	border-radius:60px;
 	border:;
-	margin: 0px 50px 70px 0px;
+	margin: 10px 50px 100px 8px;
 	float: left;
+	background-color:black;
+	
 
 
 }
 aside ul {
 	
 	display:block;	
-	color: white;		
+	color: white;
+	list-style-type:none;	
+		
 	
 	
 }
 
 aside ul li{
-	margin: 20px;
+	margin: 40px;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size:15px;
+	
 }
 
 footer{
-	margin:510px;
+	padding:0 10px 0 480px;
 }
 table{
-	width:5%;
+	width:40px;
+	padding: 0 10px 0 300px;
+	
 }
 
-th, td{
-	background-color:#999
-	padding: 20px
-}
+th, td{ 
 	
+	background-color:white;
+	padding: 50px;
+}
+
+th:hover,td.alt:hover
+{
+	background: blue;
+}
+td:hover{
+	background-color:orange;
+}
+
 	
 
 
