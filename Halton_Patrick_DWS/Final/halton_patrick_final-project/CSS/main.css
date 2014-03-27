@@ -1,0 +1,148 @@
+body{
+	background: url("..//images/lighthouse.jpg") no-repeat fixed center;		
+}
+
+#main{
+	padding:20px;
+	color: #F5FFFA;
+	font-style:italic;
+	font-weight:Bolder;
+	font-size:30px;
+	font-variant:small-caps; 
+	font-family: Georgia,times,sans-serif;		
+	background-repeat: repeat;
+	background-position:center;
+	background: url("../images/bwlighthouse.jpg");
+	margin:0px;
+	text-align:left;	
+}
+#linkhead{
+	font-family:Impact, Charcoal, sans-serif
+}
+
+nav{
+	background-color:#1E90FF;
+	padding: 10px 10px 10px 0px;
+	margin:0px;		
+}
+
+nav li{
+	display:inline;
+	padding: 40px;
+	text-decoration: none;
+	color:#1E90FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	letter-spacing: 1px;
+	background-color:black;
+	padding:10px;	
+	border-radius:20%;
+}
+	a:link {royalblue;}      
+	a:visited {orange;}  
+	a:hover {color:#F0F8FF;}  
+	a:active {color:#0000FF;} 
+
+aside{
+	width:10%;
+	padding:30px 40px 30px 0px;	
+	border-radius:20px;
+	border:;
+	margin: 10px 50px 100px 20px;
+	float: left;
+	background-color:#1E90FF;
+	box-shadow:5px 5px 5px #888;
+	
+}
+
+aside ul{
+	display:block;	
+	color: white;
+	list-style-type:none;			
+}
+
+aside ul li{
+	margin: 20px 40px 40px 20px;
+	padding: 10px 15px 10px 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:15px;
+	text-align:center;	
+}
+
+.column{	
+	background-color:#1E90FF;
+	margin:0px 0px 0px 280px;	
+	background:url("../images/islandlife.jpeg");;\
+}
+
+p{
+	background-color:#1E90FF;
+}
+
+h2{
+	font-family:Impact, Charcoal, sans-serif
+}
+
+table{
+	width:40px;
+	padding: 0 10px 0 300px;
+	
+	
+}
+
+th, td{ 
+	
+	background-color:#1E90FF;
+	padding: 50px;
+	border: 1px solid black;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-shadow:3px 3px #82AFF3;
+}
+
+th:hover,td.alt:hover
+{
+	background: blue;
+}
+td:hover{
+	background-color:#00BFFF;
+}
+
+
+#liform{
+	font-family:Lucida Casual, Comic Sans MS;
+	width:30%;
+	background-color:#82AFF3;
+	border-radius:10%;
+	margin: 10px 20px 20px 450px;
+	padding: 10px 20px 20px 40px;		
+}
+
+#liform:hover{
+	font-family:Lucida Casual, Comic Sans MS;
+	width:30%;
+	background-color:white;
+	border-radius:10%;
+
+}
+
+#button{
+	font-size:70%;
+	font-family:Courier New,Courier;
+	color:white;
+	background-color:orange;
+	border-radius:50px;
+}
+#button:hover{
+	font-size:70%;
+	font-family:Courier New,Courier;
+	color:white;
+	background-color:#1E90FF;
+	border-radius:50px;
+}
+hr{
+	background-color:#1E90FF;
+}
+
+
+
