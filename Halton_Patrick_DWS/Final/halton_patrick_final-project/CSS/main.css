@@ -71,14 +71,16 @@ aside ul li{
 }
 #iconli{
 	
-	background:url("../images/495icon.jpg")no-repeat;
+	background:url("../images/495icon.jpg");
+	background-repeat:no-repeat;
 	padding:0px 10px 0px 50px;
 	margin: 0px 0px 0px 250px;
 }
 .column{	
 	
 	margin:10px 0px 0px 280px;	
-	font-family:'Diplomata', cursive;
+	font-family:Diplomata, cursive;
+	opacity:0.4%;
 }
 
 p{
