@@ -69,11 +69,16 @@ aside ul li{
 	font-size:1em;
 	text-align:center;	
 }
-
-.column{	
-	background-color:#666699;
-	margin:0px 0px 0px 280px;	
+#iconli{
 	
+	background:url("../images/495icon.jpg")no-repeat;
+	padding:0px 10px 0px 50px;
+	margin: 0px 0px 0px 250px;
+}
+.column{	
+	
+	margin:10px 0px 0px 280px;	
+	font-family:'Diplomata', cursive;
 }
 
 p{
@@ -82,6 +87,9 @@ p{
 
 h2{
 	font-family:Impact, Charcoal, sans-serif
+	padding:10px
+	background-color:#666699;
+	
 }
 
 table{
