@@ -1,5 +1,5 @@
 body{
-	background: url("..//images/lighthouse.jpg") no-repeat fixed center;		
+	background: url("..//images/lighthouse.jpg") no-repeat fixed center;/*only wanted sky for background image*/
 }
 
 #main{
